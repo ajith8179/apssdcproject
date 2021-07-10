@@ -1,0 +1,10 @@
+<resources>
+<string name="app_name">Diary</string>
+<string name="datepicker">DatePicker</string>
+<string name="ShowNotes">Show Notes</string>
+<string name="save">Save</string>
+<string name="next">Next</string>
+<string name="Start">Start</string>
+<string name="refresh">Refresh</string>
+<string name="share">Share</string>
+</resources>
